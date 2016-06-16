@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4545B3EE-67E7-8A0D-4551-A594AEEE18BF}") = "FantasticKingdom", "Assembly-CSharp.csproj", "{EE532419-67C2-AB9F-FD51-0B820DE2EC36}"
+EndProject
+Project("{4545B3EE-67E7-8A0D-4551-A594AEEE18BF}") = "FantasticKingdom", "Assembly-CSharp-Editor.csproj", "{ED8F0706-6689-BFBF-F13E-5BB668B085B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE532419-67C2-AB9F-FD51-0B820DE2EC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE532419-67C2-AB9F-FD51-0B820DE2EC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE532419-67C2-AB9F-FD51-0B820DE2EC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE532419-67C2-AB9F-FD51-0B820DE2EC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8F0706-6689-BFBF-F13E-5BB668B085B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8F0706-6689-BFBF-F13E-5BB668B085B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8F0706-6689-BFBF-F13E-5BB668B085B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8F0706-6689-BFBF-F13E-5BB668B085B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

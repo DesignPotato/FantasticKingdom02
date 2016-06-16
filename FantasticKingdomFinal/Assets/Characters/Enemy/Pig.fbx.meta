@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 11b83627bb5c74f3bbdb1ef153220934
+timeCreated: 1465780967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back1
+    100002: head
+    100004: imagePlane1
+    100006: imagePlane2
+    100008: imagePlane3
+    100010: joint25
+    100012: joint26
+    100014: joint27
+    100016: joint28
+    100018: joint29
+    100020: joint30
+    100022: joint31
+    100024: L_elbow
+    100026: L_fingers1
+    100028: L_fingers2
+    100030: L_fingers3
+    100032: L_foot
+    100034: L_hand
+    100036: L_hip
+    100038: L_Knee
+    100040: L_shoulder
+    100042: L_Tailbone
+    100044: L_Thumb1
+    100046: L_Thumb2
+    100048: L_Thumb3
+    100050: left1
+    100052: Neck
+    100054: //RootNode
+    100056: PIG_root
+    100058: polySurface2
+    100060: polySurface4
+    100062: polySurface5
+    100064: R_Elbow
+    100066: R_foot
+    100068: R_Hip
+    100070: R_Knee
+    100072: R_Shoulder
+    100074: R_Tailbone
+    100076: up_spine1
+    100078: up_spine2
+    400000: back1
+    400002: head
+    400004: imagePlane1
+    400006: imagePlane2
+    400008: imagePlane3
+    400010: joint25
+    400012: joint26
+    400014: joint27
+    400016: joint28
+    400018: joint29
+    400020: joint30
+    400022: joint31
+    400024: L_elbow
+    400026: L_fingers1
+    400028: L_fingers2
+    400030: L_fingers3
+    400032: L_foot
+    400034: L_hand
+    400036: L_hip
+    400038: L_Knee
+    400040: L_shoulder
+    400042: L_Tailbone
+    400044: L_Thumb1
+    400046: L_Thumb2
+    400048: L_Thumb3
+    400050: left1
+    400052: Neck
+    400054: //RootNode
+    400056: PIG_root
+    400058: polySurface2
+    400060: polySurface4
+    400062: polySurface5
+    400064: R_Elbow
+    400066: R_foot
+    400068: R_Hip
+    400070: R_Knee
+    400072: R_Shoulder
+    400074: R_Tailbone
+    400076: up_spine1
+    400078: up_spine2
+    2300000: polySurface4
+    2300002: polySurface5
+    3300000: polySurface4
+    3300002: polySurface5
+    4300000: polySurface2
+    4300002: polySurface4
+    4300004: polySurface5
+    7400000: walk
+    7400002: Attack_1
+    7400004: Attack_2
+    7400006: Idle
+    7400008: Death
+    9500000: //RootNode
+    13700000: polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

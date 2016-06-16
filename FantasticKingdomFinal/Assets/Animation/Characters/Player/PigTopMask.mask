@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PigTopMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: back1
+    m_Weight: 1
+  - m_Path: imagePlane1
+    m_Weight: 0
+  - m_Path: imagePlane2
+    m_Weight: 0
+  - m_Path: imagePlane3
+    m_Weight: 0
+  - m_Path: left1
+    m_Weight: 0
+  - m_Path: PIG_root
+    m_Weight: 1
+  - m_Path: PIG_root/L_Tailbone
+    m_Weight: 0
+  - m_Path: PIG_root/L_Tailbone/L_hip
+    m_Weight: 0
+  - m_Path: PIG_root/L_Tailbone/L_hip/L_Knee
+    m_Weight: 0
+  - m_Path: PIG_root/L_Tailbone/L_hip/L_Knee/L_foot
+    m_Weight: 0
+  - m_Path: PIG_root/R_Tailbone
+    m_Weight: 0
+  - m_Path: PIG_root/R_Tailbone/R_Hip
+    m_Weight: 0
+  - m_Path: PIG_root/R_Tailbone/R_Hip/R_Knee
+    m_Weight: 0
+  - m_Path: PIG_root/R_Tailbone/R_Hip/R_Knee/R_foot
+    m_Weight: 0
+  - m_Path: PIG_root/up_spine1
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_fingers1
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_fingers1/L_fingers2
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_fingers1/L_fingers2/L_fingers3
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_Thumb1
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_Thumb1/L_Thumb2
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/L_Thumb1/L_Thumb2/L_Thumb3
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/L_shoulder/L_elbow/L_hand/polySurface4
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/Neck
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/Neck/head
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint26
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint26/joint27
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint26/joint27/joint28
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint29
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint29/joint30
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/joint29/joint30/joint31
+    m_Weight: 1
+  - m_Path: PIG_root/up_spine1/up_spine2/R_Shoulder/R_Elbow/joint25/polySurface5
+    m_Weight: 1
+  - m_Path: polySurface2
+    m_Weight: 1
